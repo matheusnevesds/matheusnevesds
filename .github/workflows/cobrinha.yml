@@ -29,3 +29,8 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+          
+      - name: Push changes to Default branch
+        run: git push origin Default branch  # Use o nome da sua branch padrão aqui
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
