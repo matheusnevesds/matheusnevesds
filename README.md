@@ -2,6 +2,7 @@
 
 - 🔭 Procuro estagio Full-stack
 - 🌱 Estudando Python e Javascript
+- 🎓 Cursando 3°semestre em ADS
 
 <img align="center" alt="Matheus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
