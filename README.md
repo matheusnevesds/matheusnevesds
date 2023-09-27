@@ -2,10 +2,11 @@
 
 - 🔭 Procuro estagio Full-stack
 - 🌱 Estudando Python e Javascript
-
-<img align="center" alt="Matheus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusnevesds&show_icons=true&theme=algolia)
+
+<img align="center" alt="Matheus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnevesds&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
  
 <div> 
