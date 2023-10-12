@@ -1,23 +1,38 @@
-### Oii Sou Matheus Neves, futuro desenvolvedor full-stack! 👋
-
-- 🔭 Procuro estagio Full-stack
-- 📚 Estudando Python e Javascript
-- 🎓 Cursando 3°semestre em ADS
-
-<img align="center" alt="Matheus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B173B&height=270&section=header&fontAlignY=35&text=Matheus%20Neves&desc=Futuro%20desenvolvedor%20full-stack!💻&fontColor=1E90FF#gh-dark-mode-only" />
+</a>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusnevesds&show_icons=true&theme=algolia)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnevesds&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+## <b> Oii Sou Matheus Neves, futuro desenvolvedor full-stack! 👋 </b>
 
- ##
- 
-<div> 
-  <a href="https://instagram.com/neves_83" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:matheusnevesdasilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-neves-da-silva-30333023a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
+- 🔎 Procurando primeiro emprego na área! 
+- 📚 Estudando Python e Javascript na Udemy através dos cursos do Luiz Otavio Miranda
+- 🎓 Cursando 3° semestre em Análise e desenvolvimento de sistemas
+
+
+## <b>Skills</b>
+
+
+  <img align="center" alt="Matheus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+
 
 <div>
+  <a href="https://github.com/OtavioCanedo">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Matheusnevesds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusnevesds&layout=compact&langs_count=16&theme=algolia" />
+</div>
+
+## Contato
+  
+<div>
+    <a href="https://drive.google.com/file/d/1QljZdlWVRVPXRKH3wo0QUr8_S7GLMRGi/view?usp=sharing" target="_blank"><img height="28em" src="https://img.shields.io/badge/-Curriculo-%0101DFB5?style=for-the-badge&logo=curriculo&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-neves-da-silva-30333023a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:matheusnevesdasilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/neves_83" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B173B&height=200&section=footer" />
+</a>
+
 
 
 
