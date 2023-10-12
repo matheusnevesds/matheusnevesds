@@ -20,13 +20,6 @@
   <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusnevesds&layout=compact&langs_count=16&theme=algolia" />
 </div>
 
-
-<div>
-  <a href="https://github.com/OtavioCanedo">
-  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=Matheusnevesds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusnevesds&layout=compact&langs_count=16&theme=algolia" />
-</div>
-
 ## Contato
   
 <div>
