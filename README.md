@@ -1,11 +1,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0B173B&height=270&section=header&fontAlignY=35&text=Matheus%20Neves&desc=Futuro%20desenvolvedor%20full-stack!💻&fontColor=1E90FF#gh-dark-mode-only" />
 </a>
   
-## <b> Oii Sou Matheus Neves, futuro desenvolvedor full-stack! 👋 </b>
+## <b> Oii Sou Matheus Neves, futuro cientista de dados 👋 </b>
 
 
 - 🔎 Procurando primeiro emprego na área! 
-- 📚 Estudando Python e Javascript na Udemy através dos cursos do Luiz Otavio Miranda
+- 📚 Estudando Python, SQL e Machine Learning na plataforma da Dio.me através de bootcamps.
 - 🎓 Cursando 3° semestre em Análise e desenvolvimento de sistemas
 
 
