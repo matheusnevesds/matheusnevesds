@@ -1,4 +1,4 @@
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B173B&height=270&section=header&fontAlignY=35&text=Matheus%20Neves&desc=Futuro%20Cientista%20de%20Dados!💻&fontColor=1E90FF#gh-dark-mode-only" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B173B&height=270&section=header&fontAlignY=35&text=Matheus%20Neves&desc=Cientista%20de%20Dados!💻&fontColor=1E90FF#gh-dark-mode-only" />
 </a>
   
 ## <b> Oii Sou Matheus Neves, cientista de dados 👋 </b>
