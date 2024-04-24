@@ -27,7 +27,7 @@
 <div>
     <a href="https://drive.google.com/file/d/1tB2g2cc1kJbvy-BUZiOCuv9WV5E0q4Oq/view?usp=sharing" target="_blank"><img height="28em" src="https://img.shields.io/badge/-Curriculo-%0101DFB5?style=for-the-badge&logo=curriculo&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-neves-da-silva-30333023a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:matheusnevesdasilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:matheusndsdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/neves_83" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
