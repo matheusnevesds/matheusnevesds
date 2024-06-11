@@ -6,8 +6,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=1E90FF&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+Matheus+Neves!)](https://git.io/typing-svg)
 
 
-- 🔎 Procurando primeiro emprego na área! 
-- 📚 Estudando Python, SQL, Power BI, Nuvem AWS e Machine Learning na plataforma da Dio.me através de cursos e bootcamps.
+- 🔎 Análista de dados estágiario na ATF Bank! 
+- 📚 Estudando Python, SQL, Power BI, Nuvem AWS e Machine Learning na plataforma da Alura através de cursos e bootcamps.
 - 🎓 Cursando 3° semestre em Análise e desenvolvimento de sistemas
 
 
