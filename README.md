@@ -6,7 +6,6 @@
 
 - 🔎 Análista de dados estágiario na ATF Bank! 
 - 🧑‍🎓 Aluno Geração Caldeira 2024 - Python🐍
-- 📚 Estudando Python, SQL, Power BI, Nuvem AWS e Machine Learning na plataforma da Alura através de cursos e bootcamps.
 - 🎓 Cursando 4° semestre em Análise e desenvolvimento de sistemas
 
 
