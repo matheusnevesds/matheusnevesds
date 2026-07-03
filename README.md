@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=1E90FF&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+Matheus+Neves!)](https://git.io/typing-svg)
 
 
-- 🔎 Análista de dados na ATF Bank! 
+- 🔎 Cientista de Dados na Vent Digital! 
 - 🧑‍🎓 Aluno Geração Caldeira 2024 - Python🐍
 - 🎓 Cursando 6° semestre em Data Science!
 
